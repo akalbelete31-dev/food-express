@@ -152,12 +152,12 @@ const Login = () => {
 
                 {/* Demo Accounts */}
                 <div className="mt-4 p-3 bg-light rounded">
-                  <small className="text-muted">
+                  {/* <small className="text-muted">
                     <strong>Demo Accounts:</strong><br />
                     Customer: customer@demo.com / 123456<br />
                     Restaurant: restaurant@demo.com / 123456<br />
                     Delivery: delivery@demo.com / 123456
-                  </small>
+                  </small> */}
                 </div>
 
 
