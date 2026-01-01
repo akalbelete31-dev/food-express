@@ -1,0 +1,35 @@
+:root {
+    /* Custom Warm Rust & Gold Palette */
+    /* #662c1a - Warm Rust / Brown (Secondary) */
+    /* #f1a91a - Vibrant Gold / Orange (Primary) */
+    /* #fad7a2 - Pale Apricot (Accent) */
+    /* #f6f5f5 - Off-White (Background) */
+
+    --primary: #f1a91a;
+    --secondary: #662c1a;
+    --dark: #662c1a;
+    --light: #f6f5f5;
+    --accent: #fad7a2;
+
+    --gradient: linear-gradient(90deg, #f1a91a 0%, #662c1a 100%);
+
+    --ethiopia-green: #078930;
+    --ethiopia-yellow: #fcdd09;
+    --ethiopia-red: #da121a;
+
+    /* Bootstrap Overrides */
+    --bs-primary: #f1a91a;
+    --bs-primary-rgb: 241, 169, 26;
+    --bs-secondary: #662c1a;
+    --bs-secondary-rgb: 102, 44, 26;
+    --bs-light: #f6f5f5;
+    --bs-light-rgb: 246, 245, 245;
+    --bs-dark: #662c1a;
+    --bs-dark-rgb: 102, 44, 26;
+
+    --bs-body-bg: #f6f5f5;
+    --bs-body-color: #662c1a;
+
+    --bs-link-color: #662c1a;
+    --bs-link-hover-color: #f1a91a;
+}
